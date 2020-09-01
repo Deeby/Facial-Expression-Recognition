@@ -1,0 +1,18 @@
+Step by Step Procedure:
+
+1)Initially Create the python notebook for model, camera, and also the html document index.html
+
+2)Then go to anaconda navigator, create a virtual environment for project over there
+
+3)Then in that environment install all the libraries(I have installed keras, tensorflow, flask, opencv)
+
+4)Then go to anaconda prompt and change the environment to your environment
+
+5) then go to project directory and write below commands:
+
+pip install pipenv
+
+python main.py
+
+6) That's it project should run on 127.0.0.1:5000
+
